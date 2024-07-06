@@ -1,0 +1,182 @@
+
+        .navbar,.nav-link{
+            font-family:'Segoe UI';
+            font-size: large;
+            font-weight: bold;
+            color: black;
+        }
+
+        body{
+            
+
+            padding:0 20px 30px 0;
+        }
+
+   
+        .btn{
+            background-color: rosybrown;
+            color: rgb(22, 2, 40);
+            font-family:'Segoe UI';
+            font-size: large;
+            font-weight: bold;
+           
+           
+        }
+
+        .navbar-brand{
+            font-family:'Segoe UI';
+            font-size: 30px;
+
+        }
+
+        #container1{
+            margin-top: 1px;
+           
+        }
+        h1{
+            margin-top: 10%;
+            font-family:'Segoe UI';
+            font-size: 60px;
+            font-weight: bold;
+            margin-left: 3%;
+            color: rgb(22, 2, 40);
+
+        }
+        h2{
+            font-family:'Segoe UI';
+            font-size: 50px;
+            font-weight: bold;
+            color: rgb(22, 2, 40);
+            
+            margin-left: 3%;
+
+        }
+
+        #img{
+            height:400px;
+            width:600px;
+            float:right;
+            margin-top: 2px;
+           
+           
+            
+        }
+
+        #text1{
+            font-family:'Segoe UI';
+           text-align:left;
+           color: rgb(22, 2, 40);
+            
+            font-size: 20px;
+          
+        }
+
+        #con{
+            margin-top: 10px;
+            margin-left: 100px;
+            border-style: hidden;
+            font-weight:bold;
+            color: rgb(22, 2, 40);
+            
+        }
+
+        #book{
+            margin-left:160px;
+            
+            font-size: 20px;
+            font-family:'Segoe UI';
+            font-style: normal;
+            color: black;
+            font-weight: bold;
+            text-decoration: none;
+            
+        }
+
+        #container2{
+            
+            border-style:solid;
+            margin-top: 200px;
+            border-color:rgb(156, 155, 155);
+            border-width: 2px;
+        }
+
+        #text2{
+            font-family:'Segoe UI';
+            text-align:left;
+            font-weight:bold;
+            margin-top: 8%;
+            margin-left: 5%;
+            color: rgb(22, 2, 40);
+             
+             font-size: 20px;
+           
+
+        }
+
+        #img2{
+            height:180px;
+            width:800px;
+            float:right;
+            margin-right:10px;
+            
+        }
+    .col{
+        
+        width:300px;
+        height:100px;
+    }
+
+    #text3{
+        font-family:'Segoe UI' ;
+        font-size:20px;
+    }
+
+   .list-group{
+    font-family:'Segoe UI' ;
+        font-size:16px;
+
+   }
+
+   #container3{
+    background-color: rgb(45, 3, 85);
+    margin-top:350px;
+    height:200px;
+    
+   }
+
+   #text4,#text5{
+    font-family:'Segoe UI' ;
+        font-size:20px;
+        margin-top:8px;
+        color:rgb(229, 225, 225);
+        text-align: center;
+
+   }
+
+   #col{
+    margin-left:150px;
+    margin-top:20px;
+    width:250px;
+        height:100px;
+   }
+
+
+   #col1{
+    
+    margin-left:600px;
+    width:300px;
+    height:200px;
+}
+
+#img4{
+    float:left;
+}
+
+
+
+#container4{
+   
+    margin-top:200px;
+    height:200px;
+    
+   }
