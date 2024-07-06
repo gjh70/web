@@ -19,6 +19,7 @@
             font-family:'Segoe UI';
             font-size: large;
             font-weight: bold;
+            border-style: none;
            
            
         }
@@ -175,8 +176,74 @@
 
 
 #container4{
-   
     margin-top:200px;
     height:200px;
-    
-   }
+    }
+    #text6{
+        font-family:'Segoe UI' ;
+        font-size:20px;
+        font-weight: bold;
+    }
+
+    #container5{
+        margin-top:350px;
+    height:200px;
+
+    }
+
+    #card{
+        margin-top: 100px;
+        margin-left:20px;
+    }
+    #text7{
+        text-align: center;
+    }
+
+    h5{
+        font-family:'Segoe UI' ;
+        font-size:35px;
+        color: rgb(22, 2, 40);
+        font-weight: bold;
+
+    }
+
+    #container6{
+        margin-top:800px;
+        height:400px;
+
+    }
+
+    #img8{
+        float:left;
+        height:600px;
+        width:800px;
+    }
+   
+    #b{
+        background-color:rosybrown;
+        border-style: none;
+        
+    }
+    #cont{
+        margin-left:20px;
+    }
+    #container7{
+        margin-top:100px;
+    }
+    #hy{
+        text-align: center;
+    }
+   
+    #t{
+        font-family:'Segoe UI' ;
+        font-size:30px;
+        color: rgb(22, 2, 40);
+        font-weight: bold;
+        margin-left: 20px;
+    }
+    #text8{
+        font-size:20px;
+        color: rgb(22, 2, 40);
+        font-family:'Segoe UI' ;
+        text-decoration: none;
+       }
