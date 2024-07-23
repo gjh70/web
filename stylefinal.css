@@ -1,33 +1,65 @@
-
-
-
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
-
 .navbar,.nav-link{
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-size: large;
     font-weight: bold;
-    color: black;
+    color: #201C44 !important;
+    
+}
+
+
+
+#nav_bar{
+    width: 50px;
+    height: 50px;
+    font-size:30px ;
+}
+#logo{
+    height:3px;
+    width:3px;
+    color: rgb(69, 27, 105);
+    opacity:50%;
+}
+
+#logo1{
+    height:5px;
+    width:5px;
+    color: rgb(69, 27, 105);
+    
+}
+
+
+
+#contact{
+   
+    border-style: hidden;
+    font-weight:bold;
+    font-size:15px;
+    min-width:180px;
+    padding: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin-left:300px;
+    background-color:#FAE0E1;
+    
+    color:#201C44;
 }
 
 body{
     
-
+   
     padding:0 20px 30px 0;
+    color: #201C44;
 }
 
 #text11{
-    color: rgb(22, 2, 40);
-    font-family:'Segoe UI';
+    color: #201C44;
+    font-family: "Plus Jakarta Sans", sans-serif;
 
 }
 
 .btn{
-    background-color: rgb(203, 171, 171);
-    color: rgb(22, 2, 40);
-    font-family:'Segoe UI';
+    background-color: #FAE0E1;
+    color: #201C44;
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-size: large;
     font-weight: bold;
     border-style: none;
@@ -36,7 +68,7 @@ body{
 }
 
 .navbar-brand{
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-size: 30px;
     width: 1440px;
 height: 129px;
@@ -48,7 +80,7 @@ opacity: 0px;
 
 #container1{
     width: 1323.11px;
-    height: 590px;
+    height: 510px;
     top: 200px;
     left: 78px;
     gap: 0px;
@@ -56,57 +88,129 @@ opacity: 0px;
     
    
 }
+#i{
+    color:#201C44;
+    border-style: solid;
+    
+    border-color: #FAE0E1;
+    border-radius: 2px;
+    border-width: 1px;
+    padding:10px 12px 10px 12px;
+gap:8px;
+max-width:30px;
+}
+
+
 
 #container9{
-    width: 1207px;
-height: 528px;
+    width: 1300px;
+height: 700px;
 top: 1147px;
 left: 83px;
 gap: 0px;
 opacity: 0px;
 
 }
+
+#img3{
+    width: 400px;
+    height: 500px;
+   
+
+}
 h1{
     margin-top: 10%;
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-size: 60px;
-    font-weight: bold;
+    font-weight: 700;
     margin-left: 3%;
-    color: rgb(22, 2, 40);
+    color: #201C44;
+
 
 }
 h2{
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-size: 50px;
-    font-weight: bold;
-    color: rgb(22, 2, 40);
+    font-weight: 700;
+    color: #201C44;
     
     margin-left: 3%;
 
 }
 
+#text15{
+    font-weight: bold;
+   
+}
+
+
+.product-holder,.product{
+ position:relative;
+ display:block;
+}
+
+#img19{
+    width: 240.12px;
+height: 207px;
+top: 230px;
+left: 256px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
 #img{
-    width: 550px;
-height: 607.98px;
+    width: 500px;
+height: 550px;
 top: 182px;
 left: 677px;
 gap: 0px;
 opacity: 0px;
 float:right;
+background-color: #FAE0E1;
+border-radius: 5px;
+
    
     
 }
 
-#img3{
-    float:left;
+#img10{
+    width: 193px;
+height: 166.38px;
+
+
+gap: 0px;
+opacity: 0px;
+
+    left:0px;
+    top: 100px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -25px;
+
+
+}
+#img11{
+    height:130px;
+    width:130px;
+    position: absolute;
+   
+    position: absolute;
+    margin-top: -25px;
+    margin-left:450px;
 }
 
+
+
 #text1{
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
    text-align:left;
-   color: rgb(22, 2, 40);
-    
-    font-size: 20px;
+   color:#201C44;
+    font-weight:400;
+    font-size: 16px;
+    line-height: 28px;
   
 }
 
@@ -115,26 +219,40 @@ float:right;
     border-style: hidden;
     font-weight:bold;
     font-size:15px;
-    width:233.6px;
-    height:35.2px;
-    font-family:'Segoe UI';
+    max-width:200px;
+    padding: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
     margin-left:10px;
-
-
-    color: rgb(22, 2, 40);
+    background-color: #FAE0E1;
+    color: #201C44;
     
 }
 
+#con1{
+   
+    border-style: hidden;
+    font-weight:bold;
+    font-size:15px;
+    min-width:240px;
+    padding:10px ;
+    
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin-left:10px;
+    background-color: #FAE0E1;
+    color: #201C44;
+    border-radius: 3px;
+    
+}
 #text10{
     font-family: "Roboto", sans-serif;
     text-align: center;
 }
 
 #book{
-    margin-left:160px;
-    
+    margin-left:100px;
+    max-width:180px;
     font-size: 18px;
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     font-style: normal;
     color: black;
     font-weight: bold;
@@ -149,8 +267,9 @@ float:right;
     border-style:solid;
     margin-top: 200px;
     border-color:rgb(156, 155, 155);
-    width:1500px;
+    width:1400px;
     height:350px;
+    margin-left:20px;
    
     
     
@@ -158,12 +277,12 @@ float:right;
 }
 
 #text2{
-    font-family:'Segoe UI';
+    font-family: "Plus Jakarta Sans", sans-serif;
     text-align:left;
     font-weight:bold;
     margin-top: 8%;
     margin-left: 5%;
-    color: rgb(22, 2, 40);
+    color: #201C44;
      
      font-size: 20px;
    
@@ -183,27 +302,94 @@ width:300px;
 height:100px;
 }
 
+
+
 #text3{
-font-family:'Segoe UI' ;
-font-size:20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size:18px;
+font-weight:400;
+line-height:28px;
+
+
 }
 
-.list-group{
-font-family:'Segoe UI' ;
-font-size:16px;
+#col4{
+    margin-left:60px;
+}
 
+#list{
+    gap:12px;
+}
+.list-group-item{
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size:18px;
+border-style: none!important;
+font-weight:400;
+color:#201C44;
+line-height: 28px;
+
+}
+
+#icon{
+    background-color:#FAE0E1;
+    font-size:16px;
+    color:#201C44;
+    width:47px;
+    height:50px;
+padding:5px 3px 5px 3px;
+border-radius: 2px;
+}
+
+
+
+#star{
+    font-size:15px;
+    color:#201C44;
+    background-color:#FAE0E1;
+    padding:9px 12px 9px 12px;
+    gap:8px;
+    margin-left:30px;
 }
 
 #container3{
 background-color: rgb(45, 3, 85);
 margin-top:380px;
 height:200px;
-width:1500px;
+width:1400px;
 
 }
 
+
+#icon1{
+    color:#131126;
+    background-color: #FAE0E1;
+    padding:6px 7px 6px 7px;
+    border-radius: 2px;
+    gap:8px;
+
+}
+
+#icon2{
+    color:#131126;
+    background-color: #F3DEB3;
+    padding:6px 7px 6px 7px;
+    border-radius: 2px;
+    gap:8px;
+
+}
+#icon3{
+    color:#131126;
+    background-color: #CBCFFA;
+    padding:6px 7px 6px 7px;
+    border-radius: 2px;
+    gap:8px;
+
+}
+
+
+
 #text4,#text5{
-font-family:'Segoe UI' ;
+    font-family: "Plus Jakarta Sans", sans-serif;
 font-size:20px;
 margin-top:8px;
 color:rgb(229, 225, 225);
@@ -238,8 +424,8 @@ margin-top:200px;
 height:200px;
 }
 #text6{
-font-family:'Segoe UI' ;
-font-size:20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size:16px;
 font-weight: bold;
 }
 
@@ -249,9 +435,6 @@ height:200px;
 
 }
 
-#hi{
-font-size:5px;
-}
 
 #card{
 margin-top: 100px;
@@ -264,41 +447,47 @@ font-weight: bold;
 }
 
 h5{
-font-family:'Segoe UI' ;
+    font-family: "Plus Jakarta Sans", sans-serif;
 font-size:35px;
-color: rgb(22, 2, 40);
+color: #201C44;
 font-weight: bold;
 
 }
 
 #container6{
-margin-top:800px;
-height:500px;
+margin-top:650px;
+height:520px;
 
 
 }
 
 #img8{
-float:left;
-margin-left:50px;
-height:600px;
-width:800px;
+float:right;
+
+height:550px;
+width:680px;
 
 }
 
 #b{
-background-color:rosybrown;
+background-color:#FAE0E1;
 border-style: none;
 
+}
+
+#bu{
+    color:#201C44; 
 }
 #cont{
 margin-left:20px;
 width:180px;
-color:rgb(22, 2, 40);
+color:#201C44;
 border-style: none;
-font-family:'Segoe UI' ;
+font-family: "Plus Jakarta Sans", sans-serif;
 font-weight: bold;
 }
+
+
 #container7{
 width: 1064px;
 height: 600px;
@@ -310,29 +499,42 @@ opacity: 0px;
 }
 #hy{
 text-align: center;
-color: rgb(22, 2, 40);
+color: #201C44;
 }
 
 #t{
-font-family:'Segoe UI' ;
+    font-family: "Plus Jakarta Sans", sans-serif;
 font-size:30px;
-color: rgb(22, 2, 40);
+color: #201C44;
 font-weight: bold;
 margin-left: 20px;
 }
-#text8,#text14{
-font-size:20px;
-color: rgb(22, 2, 40);
-font-family:'Segoe UI' ;
+#text8{
+font-size:16px;
+color: #201C44;
+font-family: "Plus Jakarta Sans", sans-serif;
 text-decoration: none;
+font-weight: bold;
+
 }
 
+#text14{
+    font-size:16px;
+    color: #201C44;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    text-decoration: none;
+    text-align:left;
+   font-weight:400;
+    
+    }
+
 #text9{
-font-size: 20px;
-font-family:'Segoe UI' ;
-color: whitesmoke;
+font-size: 14px;
+font-family: "Plus Jakarta Sans", sans-serif;
+color: white;
 text-align:center ;
-background-color:rgb(22, 2, 40);
+font-weight:400;
+
 }
 
 #footer{
@@ -347,37 +549,36 @@ opacity: 0px;
 
 #container8{
 
-    background-color:rgb(22, 2, 40);
-    width:1500px;
+    background-color:#3C3679;
+    width:1450px;
     height:50px;
 }
 
 #accordionExample{
-    color: rgb(22, 2, 40);
+    color: #201C44;
+    font-family: "Plus Jakarta Sans", sans-serif;
 
 }
 
 #text11,#text12,#text13{
     font-family: "Roboto", sans-serif;
-    color: rgb(22, 2, 40);
+    color: #201C44;
     font-size: 20px;
 
 }
 
 #te{
     font-size: 20px;
-font-family:'Segoe UI' ;
-color: rgb(22, 2, 40);
+    font-family: "Plus Jakarta Sans", sans-serif;
+color: #201C44;
 text-decoration: none;
 font-weight: bold;
 
 }
 
 #container15{
-    margin-top:20px;
+    margin-top:3px;
 }
-
-
 
 
 
